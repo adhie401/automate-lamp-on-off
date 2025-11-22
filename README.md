@@ -1,1 +1,0 @@
-﻿# automate-lamp-on-off
